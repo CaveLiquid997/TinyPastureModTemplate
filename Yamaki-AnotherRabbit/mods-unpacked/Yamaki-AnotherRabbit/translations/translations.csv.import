@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://cv7sl03tb5eac"
+
+[deps]
+
+files=["res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.zh.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.zh_HK.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.en.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.ja.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.ko.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.de.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.es.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.fr.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.pl.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.pt.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.ru.translation"]
+
+source_file="res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.csv"
+dest_files=["res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.zh.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.zh_HK.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.en.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.ja.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.ko.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.de.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.es.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.fr.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.pl.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.pt.translation", "res://mods-unpacked/Yamaki-AnotherRabbit/translations/translations.ru.translation"]
+
+[params]
+
+compress=true
+delimiter=0

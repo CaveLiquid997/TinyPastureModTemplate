@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalData" load_steps=2 format=3 uid="uid://omjhopgqfuah"]
+
+[ext_resource type="Script" path="res://Data/animal_data.gd" id="1_ke38x"]
+
+[resource]
+script = ExtResource("1_ke38x")
+name = "大兔兔"
+code_name = "another_rabbit"
+type_id = 100
+adult_price = Array[float]([96.0, 120.0, 144.0, 180.0, 240.0])
+child_price = Array[float]([19.0, 19.0, 24.0, 36.0, 48.0])
+adult_time = [60, 90, 300, 600, 1200]
+drop_time = [300, 900, 1800, 2700, 3600]
+second_coin = Array[float]([0.07, 0.08, 0.12, 0.25, 0.67])
+poop_time = 1800
+max_hunger = 100.0
+hungry_speed = 1.0
+poop_endure = 15
+max_move_speed = 300
+min_move_speed = 300
+color_pool = [0]

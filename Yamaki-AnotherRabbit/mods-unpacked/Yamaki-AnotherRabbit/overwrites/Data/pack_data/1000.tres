@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="AnimalPackData" load_steps=2 format=3 uid="uid://c1bbki1m0uobl"]
+
+[ext_resource type="Script" path="res://Data/pack_data.gd" id="1_yyyud"]
+
+[resource]
+script = ExtResource("1_yyyud")
+type_id = 100
+name = "大兔兔"
+unlock_condition = {}
+price = 120.0
+animal_id = 100
+locked_tex_p = "res://Assets/UI/PopupUI/Shop/animal/rabbit_lock.png"
+unlock_tex_p = "res://Assets/UI/PopupUI/Shop/animal/rabbit_unlock.png"

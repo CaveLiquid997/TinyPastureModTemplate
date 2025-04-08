@@ -1,0 +1,25 @@
+{
+	"name": "AnotherRabbit",
+	"namespace": "Yamaki",
+	"version_number": "1.0.0",
+	"description": "Add another rabbit to game.",
+	"website_url": "https://",
+	"dependencies": [
+
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Yamaki"],
+			"tags": [],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [
+
+			],
+			"compatible_mod_loader_version": ["7.0.1"],
+			"compatible_game_version": ["1.0.10"],
+			"config_schema": {}
+		}
+	}
+}
